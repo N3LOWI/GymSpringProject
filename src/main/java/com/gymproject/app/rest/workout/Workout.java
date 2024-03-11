@@ -31,12 +31,3 @@ public class Workout {
 //        this.exerciseList = exerciseList;
     }
 }
-
-enum WorkoutType {
-    PUSH,
-    PULL,
-    LEGS,
-    ARMS,
-    OTHER
-
-}

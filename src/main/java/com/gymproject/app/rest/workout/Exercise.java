@@ -7,7 +7,7 @@ import java.util.List;
 
 @Data
 public class Exercise {
-//    private Long id;
+    private Long id;
     private String name;
     private List<Set> setList = new ArrayList<>();
 }
